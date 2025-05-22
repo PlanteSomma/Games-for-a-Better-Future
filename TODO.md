@@ -21,16 +21,20 @@
 - [ ] Ensure at least 1 hopeful outcome/ending is planned
 
 ### Day 3-4: Technical Setup & Design
-- [ ] Choose game engine/platform:
-  - [ ] Twine (for interactive fiction)
+- [x] Choose game engine/platform:
+  - [x] Twine (for interactive fiction)
   - [ ] Ren'Py (for visual novels)
   - [ ] Other digital platform
   - [ ] Physical game materials
-- [ ] Create game design document outlining:
+- [x] Create game design document outlining:
   - [ ] Core gameplay mechanics
-  - [ ] Story structure/narrative flow
-  - [ ] Art style requirements
-  - [ ] Sound/music needs
+    - [ ] Text adventure that allows users to explore a ruined library
+    - [ ] 
+  - [x] Story structure/narrative flow
+  - [x] Art style requirements
+    - [ ] Text Based with occasional art
+    - [ ] Sound/music needs
+    - [ ] Clasic ambiant music and sound effects
 - [ ] Set up development environment
 - [ ] Create project folder structure
 
