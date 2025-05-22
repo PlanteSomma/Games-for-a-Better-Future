@@ -1,4 +1,4 @@
-# Games for a Better Future 2025 - TODO List
+# Games for a Better Future - TODO List
 
 **Deadline:** June 9th, 2025 at 4:59 AM  
 **Time Remaining:** ~17 days
