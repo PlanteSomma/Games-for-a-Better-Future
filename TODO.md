@@ -6,14 +6,18 @@
 ## Week 1: Planning & Foundation (Days 1-7)
 
 ### Day 1-2: Concept Development
-- [ ] Brainstorm game concepts that align with "better future" theme
-- [ ] Choose primary focus area:
-  - [ ] Overcoming obstacles to create better future
-  - [ ] Educational game (computer literacy, handiwork, cooking, etc.)
-  - [ ] Strategies for working together/rebuilding
+- [x] Brainstorm game concepts that align with "better future" theme
+  - [x] Teaching code as an adventure game
+  - [x] Bike repair as a puzzle
+- [x] Choose primary focus area:
+  - [x] Overcoming obstacles to create better future
+  - [x] Educational game (computer literacy, handiwork, cooking, etc.)
+  - [X] Strategies for working together/rebuilding
   - [ ] Fictional characters living happily in future
-- [ ] Define target audience and platform
-- [ ] Decide on game medium (digital/physical/zine)
+- [x] Define target audience and platform
+  - [x] Middle School Students
+- [x] Decide on game medium (digital/physical/zine)
+- [x] Digital Text Adventure
 - [ ] Ensure at least 1 hopeful outcome/ending is planned
 
 ### Day 3-4: Technical Setup & Design
