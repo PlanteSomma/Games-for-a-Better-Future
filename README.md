@@ -1,9 +1,7 @@
-# Games-for-a-Better-Future
-
 # 🎮 Games for a Better Future 🌍
 
 **Current Date and Time (UTC):** 2025-05-22 12:56:48  
-**Current User's Login:** opencoca
+
 
 ## 🚀 Vision
 
